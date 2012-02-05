@@ -8,7 +8,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
 /**
- * Unit test for Cache.
+ * @author Bogdan
  */
 public class CacheTest {
 
